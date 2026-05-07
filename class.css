@@ -1,0 +1,44 @@
+.main-image{
+    
+    margin-left: 30px;
+    width: 30%;
+    border-radius: 10px;
+    text-align: center;
+        
+}
+.more{ 
+    margin-left: 30px;
+    width: 30%;
+    border-radius: 10px;
+    text-align: center;
+    
+      }
+#p1{
+    display: flex;
+}
+.p2{display: flex;
+    
+
+}
+.more2{ 
+    margin-left: 30px;
+    width: 30%;
+     border-radius: 10px;
+     text-align: center;
+}
+.p3{
+    display: flex;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 3x-large;
+}
+img{
+    margin-top: 10px;
+    border-radius: 10px;
+}
+#p0{
+    margin-top: -25px;
+}
